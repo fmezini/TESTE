@@ -11,4 +11,6 @@ public class Teste {
 	
 	private String teste5;
 	
+	private String teste6;
+	
 }
