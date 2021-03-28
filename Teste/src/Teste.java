@@ -19,4 +19,6 @@ public class Teste {
 	
 	private String teste10;
 	
+	private String teste11;
+	
 }
